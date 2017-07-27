@@ -1,0 +1,10 @@
+D:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_IO\bin\Release\Car_IO.dll
+D:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_IO\bin\Release\Car_IO.pdb
+D:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_IO\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_IO\obj\Release\Car_IO.dll
+D:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_IO\obj\Release\Car_IO.pdb
+F:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_IO\bin\Release\Car_IO.dll
+F:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_IO\bin\Release\Car_IO.pdb
+F:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_IO\obj\Release\Car_IO.csprojResolveAssemblyReference.cache
+F:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_IO\obj\Release\Car_IO.dll
+F:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_IO\obj\Release\Car_IO.pdb

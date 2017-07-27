@@ -1,0 +1,17 @@
+D:\Projects\New_WSC延伸\CarSystem\AutoUpCarSys\AutoUpCarSys\bin\Release\AutoUpCarSys.exe.config
+D:\Projects\New_WSC延伸\CarSystem\AutoUpCarSys\AutoUpCarSys\bin\Release\AutoUpCarSys.exe
+D:\Projects\New_WSC延伸\CarSystem\AutoUpCarSys\AutoUpCarSys\bin\Release\AutoUpCarSys.pdb
+D:\Projects\New_WSC延伸\CarSystem\AutoUpCarSys\AutoUpCarSys\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\New_WSC延伸\CarSystem\AutoUpCarSys\AutoUpCarSys\obj\Release\AutoUpCarSys.Properties.Resources.resources
+D:\Projects\New_WSC延伸\CarSystem\AutoUpCarSys\AutoUpCarSys\obj\Release\AutoUpCarSys.csproj.GenerateResource.Cache
+D:\Projects\New_WSC延伸\CarSystem\AutoUpCarSys\AutoUpCarSys\obj\Release\AutoUpCarSys.exe
+D:\Projects\New_WSC延伸\CarSystem\AutoUpCarSys\AutoUpCarSys\obj\Release\AutoUpCarSys.pdb
+D:\Projects\New_WSC延伸\CarSystem\CarSystem\CarSystem\bin\Release\AutoUpCarSys.exe
+D:\Projects\New_WSC延伸\CarSystem\CarSystem\CarSystem\bin\Release\AutoUpCarSys.pdb
+F:\Projects\New_WSC延伸\CarSystem\AutoUpCarSys\AutoUpCarSys\obj\Release\AutoUpCarSys.exe
+F:\Projects\New_WSC延伸\CarSystem\AutoUpCarSys\AutoUpCarSys\obj\Release\AutoUpCarSys.pdb
+F:\Projects\New_WSC延伸\CarSystem\CarSystem\CarSystem\bin\Release\AutoUpCarSys.exe
+F:\Projects\New_WSC延伸\CarSystem\CarSystem\CarSystem\bin\Release\AutoUpCarSys.pdb
+F:\Projects\New_WSC延伸\CarSystem\AutoUpCarSys\AutoUpCarSys\obj\Release\AutoUpCarSys.csprojResolveAssemblyReference.cache
+F:\Projects\New_WSC延伸\CarSystem\AutoUpCarSys\AutoUpCarSys\obj\Release\AutoUpCarSys.Properties.Resources.resources
+F:\Projects\New_WSC延伸\CarSystem\AutoUpCarSys\AutoUpCarSys\obj\Release\AutoUpCarSys.csproj.GenerateResource.Cache

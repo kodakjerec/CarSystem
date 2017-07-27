@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoUpCarSys", "AutoUpCarSys\AutoUpCarSys.csproj", "{74A1A869-9910-4945-8C26-1FEA0FE5AEC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74A1A869-9910-4945-8C26-1FEA0FE5AEC6}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{74A1A869-9910-4945-8C26-1FEA0FE5AEC6}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{74A1A869-9910-4945-8C26-1FEA0FE5AEC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74A1A869-9910-4945-8C26-1FEA0FE5AEC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

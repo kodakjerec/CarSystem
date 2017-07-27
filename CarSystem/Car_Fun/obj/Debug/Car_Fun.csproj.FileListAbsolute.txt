@@ -1,0 +1,15 @@
+D:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_Fun\bin\Debug\Car_Fun.dll
+D:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_Fun\bin\Debug\Car_Fun.pdb
+D:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_Fun\bin\Debug\Car_IO.dll
+D:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_Fun\bin\Debug\Car_IO.pdb
+D:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_Fun\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_Fun\obj\Debug\Car_Fun.Keyboard_EngNumber.resources
+D:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_Fun\obj\Debug\Car_Fun.Keyboard_Number.resources
+D:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_Fun\obj\Debug\Car_Fun.MsgBox.resources
+D:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_Fun\obj\Debug\Car_Fun.MsgYesNoBox.resources
+D:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_Fun\obj\Debug\Car_Fun.Properties.Resources.resources
+D:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_Fun\obj\Debug\Car_Fun.WaitWindow.resources
+D:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_Fun\obj\Debug\Car_Fun.CarSystem_Sample_Form.resources
+D:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_Fun\obj\Debug\Car_Fun.csproj.GenerateResource.Cache
+D:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_Fun\obj\Debug\Car_Fun.dll
+D:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_Fun\obj\Debug\Car_Fun.pdb

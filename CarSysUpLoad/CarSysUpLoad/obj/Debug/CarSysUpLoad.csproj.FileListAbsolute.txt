@@ -1,0 +1,9 @@
+D:\Projects\New_WSC延伸\CarSystem\車機發佈系統\CarSysUpLoad\CarSysUpLoad\bin\Debug\CarSysUpLoad.exe.config
+D:\Projects\New_WSC延伸\CarSystem\車機發佈系統\CarSysUpLoad\CarSysUpLoad\bin\Debug\CarSysUpLoad.exe
+D:\Projects\New_WSC延伸\CarSystem\車機發佈系統\CarSysUpLoad\CarSysUpLoad\bin\Debug\CarSysUpLoad.pdb
+D:\Projects\New_WSC延伸\CarSystem\車機發佈系統\CarSysUpLoad\CarSysUpLoad\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\New_WSC延伸\CarSystem\車機發佈系統\CarSysUpLoad\CarSysUpLoad\obj\Debug\CarSysUpLoad.CarLoadForm.resources
+D:\Projects\New_WSC延伸\CarSystem\車機發佈系統\CarSysUpLoad\CarSysUpLoad\obj\Debug\CarSysUpLoad.Properties.Resources.resources
+D:\Projects\New_WSC延伸\CarSystem\車機發佈系統\CarSysUpLoad\CarSysUpLoad\obj\Debug\CarSysUpLoad.csproj.GenerateResource.Cache
+D:\Projects\New_WSC延伸\CarSystem\車機發佈系統\CarSysUpLoad\CarSysUpLoad\obj\Debug\CarSysUpLoad.exe
+D:\Projects\New_WSC延伸\CarSystem\車機發佈系統\CarSysUpLoad\CarSysUpLoad\obj\Debug\CarSysUpLoad.pdb
