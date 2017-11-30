@@ -40,6 +40,8 @@
             this.lbl_Exit = new System.Windows.Forms.Label();
             this.rTB_ModifyLog = new System.Windows.Forms.RichTextBox();
             this.lbl_Location = new System.Windows.Forms.Label();
+            this.lbl_IP = new System.Windows.Forms.Label();
+            this.lbl_hostname = new System.Windows.Forms.Label();
             this.pnl_1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -103,11 +105,11 @@
             // Lbl_FileVersion
             // 
             this.Lbl_FileVersion.AutoSize = true;
-            this.Lbl_FileVersion.Font = new System.Drawing.Font("新細明體", 24F);
+            this.Lbl_FileVersion.Font = new System.Drawing.Font("新細明體", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.Lbl_FileVersion.ForeColor = System.Drawing.Color.White;
-            this.Lbl_FileVersion.Location = new System.Drawing.Point(5, 249);
+            this.Lbl_FileVersion.Location = new System.Drawing.Point(5, 253);
             this.Lbl_FileVersion.Name = "Lbl_FileVersion";
-            this.Lbl_FileVersion.Size = new System.Drawing.Size(156, 32);
+            this.Lbl_FileVersion.Size = new System.Drawing.Size(116, 24);
             this.Lbl_FileVersion.TabIndex = 7;
             this.Lbl_FileVersion.Text = "FileVersion";
             // 
@@ -163,12 +165,35 @@
             // lbl_Location
             // 
             this.lbl_Location.AutoSize = true;
+            this.lbl_Location.Font = new System.Drawing.Font("新細明體", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.lbl_Location.ForeColor = System.Drawing.Color.White;
-            this.lbl_Location.Location = new System.Drawing.Point(881, 9);
+            this.lbl_Location.Location = new System.Drawing.Point(775, 9);
             this.lbl_Location.Name = "lbl_Location";
-            this.lbl_Location.Size = new System.Drawing.Size(46, 12);
+            this.lbl_Location.Size = new System.Drawing.Size(63, 16);
             this.lbl_Location.TabIndex = 8;
             this.lbl_Location.Text = "Location";
+            // 
+            // lbl_IP
+            // 
+            this.lbl_IP.AutoSize = true;
+            this.lbl_IP.Font = new System.Drawing.Font("新細明體", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.lbl_IP.ForeColor = System.Drawing.Color.White;
+            this.lbl_IP.Location = new System.Drawing.Point(775, 49);
+            this.lbl_IP.Name = "lbl_IP";
+            this.lbl_IP.Size = new System.Drawing.Size(72, 16);
+            this.lbl_IP.TabIndex = 8;
+            this.lbl_IP.Text = "IPAddress";
+            // 
+            // lbl_hostname
+            // 
+            this.lbl_hostname.AutoSize = true;
+            this.lbl_hostname.Font = new System.Drawing.Font("新細明體", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.lbl_hostname.ForeColor = System.Drawing.Color.White;
+            this.lbl_hostname.Location = new System.Drawing.Point(775, 29);
+            this.lbl_hostname.Name = "lbl_hostname";
+            this.lbl_hostname.Size = new System.Drawing.Size(71, 16);
+            this.lbl_hostname.TabIndex = 9;
+            this.lbl_hostname.Text = "Hostname";
             // 
             // Login
             // 
@@ -177,6 +202,8 @@
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.BackColor = System.Drawing.Color.Black;
             this.ClientSize = new System.Drawing.Size(1008, 729);
+            this.Controls.Add(this.lbl_IP);
+            this.Controls.Add(this.lbl_hostname);
             this.Controls.Add(this.lbl_Location);
             this.Controls.Add(this.rTB_ModifyLog);
             this.Controls.Add(this.lbl_Exit);
@@ -191,6 +218,8 @@
             this.Controls.SetChildIndex(this.lbl_Exit, 0);
             this.Controls.SetChildIndex(this.rTB_ModifyLog, 0);
             this.Controls.SetChildIndex(this.lbl_Location, 0);
+            this.Controls.SetChildIndex(this.lbl_hostname, 0);
+            this.Controls.SetChildIndex(this.lbl_IP, 0);
             this.pnl_1.ResumeLayout(false);
             this.pnl_1.PerformLayout();
             this.ResumeLayout(false);
@@ -211,6 +240,8 @@
         private System.Windows.Forms.Label lbl_Exit;
         private System.Windows.Forms.RichTextBox rTB_ModifyLog;
         private System.Windows.Forms.Label lbl_Location;
+        private System.Windows.Forms.Label lbl_IP;
+        private System.Windows.Forms.Label lbl_hostname;
     }
 }
 

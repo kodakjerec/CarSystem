@@ -1,11 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics;
-using System.Text;
 using System.Threading;
-using System.Configuration;
 using System.Data;
-using System.Data.Sql;
 using System.Data.SqlClient;
 using System.IO;
 using System.Xml;
@@ -30,7 +27,7 @@ namespace AutoUpCarSys
         static void Main(string[] args)
         {
             #region 借用車機的xml
-            XmlTextReader reader = new XmlTextReader("CarSystem.exe.config");
+            XmlTextReader reader = new XmlTextReader("C:\\CarSystem\\CarSystem.exe.config");
             while (reader.Read())
             {
                 switch (reader.NodeType)
@@ -65,6 +62,7 @@ namespace AutoUpCarSys
                 }
             }
             OutputMsg("讀取XML完畢");
+            reader.Close();
             #endregion
 
             bool secUpdate = false;
@@ -130,8 +128,14 @@ namespace AutoUpCarSys
                 dtCloudVer.Dispose();
                 //啟動程式
                 OutputMsg("執行車機程式");
-                Process.Start(PathFile + "CarSystem.exe");
 
+                Process instance = new Process();
+                instance.StartInfo.FileName = PathFile + "CarSystem.exe";
+                instance.StartInfo.Arguments = "";
+                instance.StartInfo.UseShellExecute = true;
+                instance.StartInfo.CreateNoWindow = true;
+                instance.StartInfo.WorkingDirectory = Path.GetDirectoryName(PathFile + "CarSystem.exe");
+                instance.Start();
             }
             catch (Exception ex)
             {

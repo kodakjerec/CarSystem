@@ -48,3 +48,4 @@ F:\Projects\New_WSC延伸\CarSystem\CarSystem\CarSystem\obj\Release\CarSystem.Fo
 F:\Projects\New_WSC延伸\CarSystem\CarSystem\CarSystem\obj\Release\CarSystem.FormSelect.resources
 F:\Projects\New_WSC延伸\CarSystem\CarSystem\CarSystem\obj\Release\CarSystem.csproj.GenerateResource.Cache
 F:\Projects\New_WSC延伸\CarSystem\CarSystem\CarSystem\bin\Release\CarSystemModifyLog.txt
+F:\Projects\New_WSC延伸\CarSystem\CarSystem\CarSystem\obj\Release\CarSystem.csprojResolveAssemblyReference.cache

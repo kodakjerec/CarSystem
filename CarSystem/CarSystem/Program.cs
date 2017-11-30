@@ -108,7 +108,7 @@ namespace CarSystem
             g.CopyFromScreen(new Point(0, 0), new Point(0, 0), new Size(Screen.PrimaryScreen.Bounds.Width, Screen.PrimaryScreen.Bounds.Height));
             string FileName = @"C:\CarSystem\RecLog\"
                 +"ErrPic_"+DateTime.Now.ToString("yyyyMMddHHmmss")+".jpg";
-            myImage.Save(FileName); 
+            myImage.Save(FileName);
         }
     }
 }

@@ -12,3 +12,4 @@ F:\Projects\New_WSC延伸\CarSystem\AutoUpCarSys\AutoUpCarSys\bin\Debug\AutoUpCa
 F:\Projects\New_WSC延伸\CarSystem\AutoUpCarSys\AutoUpCarSys\bin\Debug\AutoUpCarSys.pdb
 F:\Projects\New_WSC延伸\CarSystem\AutoUpCarSys\AutoUpCarSys\obj\Debug\AutoUpCarSys.Properties.Resources.resources
 F:\Projects\New_WSC延伸\CarSystem\AutoUpCarSys\AutoUpCarSys\obj\Debug\AutoUpCarSys.csproj.GenerateResource.Cache
+F:\Projects\New_WSC延伸\CarSystem\AutoUpCarSys\AutoUpCarSys\obj\Debug\AutoUpCarSys.csprojResolveAssemblyReference.cache

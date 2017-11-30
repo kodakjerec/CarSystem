@@ -12,6 +12,7 @@ using Car_IO;
 using System.Reflection;
 using System.IO;
 using System.Text;
+using System.Net.Sockets;
 
 namespace CarSystem
 {
@@ -20,6 +21,9 @@ namespace CarSystem
         public F_Msg MegBox = new F_Msg();
         public static Login frmLogin;
         string DBName = string.Empty;
+
+        _00_Login loginDAO = new _00_Login();
+
         public Login()
         {
             InitializeComponent();
@@ -38,7 +42,28 @@ namespace CarSystem
         {
             base.New_WSC_DLL_Form_Load(sender, e);
 
-            lbl_Location.Text = ConfigurationManager.AppSettings["DC"];
+            #region 取得硬體資料, IP,hostname,DB
+            string localIP = "";
+            //取得本機名稱
+            string hostName = Dns.GetHostName();
+            lbl_hostname.Text = "Hostname："+hostName;
+
+            //取得本機IP
+            using (Socket socket = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, 0))
+            {
+                socket.Connect("10.0.2.4", 65530);
+                IPEndPoint endPoint = socket.LocalEndPoint as IPEndPoint;
+                localIP = endPoint.Address.ToString();
+            }
+            lbl_IP.Text = "IP："+localIP;
+
+
+            //連接資料庫
+            lbl_Location.Text = "DB："+ ConfigurationManager.AppSettings["DC"];
+
+            //更新login資料
+            loginDAO.UpdateCarSystemIP(ConfigurationManager.AppSettings["DC"], hostName, localIP);
+            #endregion
 
             //全螢幕
             this.WindowState = FormWindowState.Maximized;

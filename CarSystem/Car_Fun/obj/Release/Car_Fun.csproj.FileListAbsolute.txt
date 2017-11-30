@@ -17,7 +17,6 @@ F:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_Fun\bin\Release\Car_Fun.dll
 F:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_Fun\bin\Release\Car_Fun.pdb
 F:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_Fun\bin\Release\Car_IO.dll
 F:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_Fun\bin\Release\Car_IO.pdb
-F:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_Fun\obj\Release\Car_Fun.csprojResolveAssemblyReference.cache
 F:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_Fun\obj\Release\Car_Fun.Keyboard_EngNumber.resources
 F:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_Fun\obj\Release\Car_Fun.Keyboard_Number.resources
 F:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_Fun\obj\Release\Car_Fun.MsgBox.resources
