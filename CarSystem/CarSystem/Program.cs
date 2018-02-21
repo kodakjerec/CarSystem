@@ -1,10 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Windows.Forms;
 using Car_Fun;
 using System.Drawing;
-using System.Threading;
-using System.ComponentModel;
 
 namespace CarSystem
 {
@@ -24,11 +21,11 @@ namespace CarSystem
             Application.ThreadException += new System.Threading.ThreadExceptionEventHandler(Application_ThreadException);
             //非處理UI執行緒錯誤
             AppDomain.CurrentDomain.UnhandledException += new UnhandledExceptionEventHandler(CurrentDomain_UnhandledException);
-            
+
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Login());
-            //Application.Run(new Form6_2_v2());
+            //Application.Run(new Form1());
         }
 
         //處理UI執行緒錯誤

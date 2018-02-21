@@ -3,3 +3,7 @@ D:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_IO\bin\Debug\Car_IO.pdb
 D:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_IO\obj\Debug\ResolveAssemblyReference.cache
 D:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_IO\obj\Debug\Car_IO.dll
 D:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_IO\obj\Debug\Car_IO.pdb
+F:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_IO\bin\Debug\Car_IO.dll
+F:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_IO\bin\Debug\Car_IO.pdb
+F:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_IO\obj\Debug\Car_IO.dll
+F:\Projects\New_WSC延伸\CarSystem\CarSystem\Car_IO\obj\Debug\Car_IO.pdb
